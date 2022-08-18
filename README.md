@@ -68,7 +68,9 @@
 `npm start`
 - Then follow the option.
 - 💻 Gif showing the functionality of the app.
-![Company Roster](./asset/example.gif)
+![Install Instruction](./asset/Install.gif)
+![Get](./asset/get_present_function.gif)
+![Post, Update, Delete](./asset/post-delete-update.gif)
 
 ## License
 ✏️ This project is license under MIT
